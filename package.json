@@ -1,0 +1,20 @@
+{
+  "name": "traversymedia-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkrawczykowski/traversymedia-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkrawczykowski/traversymedia-chat/issues"
+  },
+  "homepage": "https://github.com/mkrawczykowski/traversymedia-chat#readme"
+}
